@@ -1,0 +1,52 @@
+
+.cart{
+    background-color: rgb(240, 236, 236);
+    padding: 20px 50px;
+    margin-top: 50px;
+}
+.row{
+    background-color: white;
+    box-shadow: 2px 2px 5px rgb(161, 160, 160);
+    padding: 20px;
+    border-radius: 10px;
+}
+.center-item{
+    display: flex;
+    align-items: center;
+}
+.center-item img{
+    width: 65px;
+    border-radius: 10px;
+}
+.mb-3 img{
+    width: 50px;
+    height: 90px;
+}
+.center-item h5{
+    margin-left: 20px;
+    font-size: 16px;
+}
+.d-flex{
+    align-items: center;
+}
+.btn{
+    margin-left: 5px;
+}
+.input-group h5{
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.text-danger{
+    font-size: 20px;
+}
+.total p{
+    margin: 0;
+}
+#phone-count, #case-count{
+    margin-top: 8px;
+    font-size: 18px;
+    background: rgb(211, 212, 212);
+    border-radius: 10px;
+}
