@@ -50,3 +50,22 @@
     background: rgb(211, 212, 212);
     border-radius: 10px;
 }
+
+
+
+@media only screen and (min-width: 200px) and (max-width: 768px){
+    .center-item{
+        width: 100%;
+    }
+    .center-item h5{
+        margin-top: -40px;
+    }
+    .d-flex{
+        width: 100%;
+        margin-top: -20px;
+    }
+    .input-group{
+        justify-content: end;
+        margin-top: -25px;
+    }
+}
